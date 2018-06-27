@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OPAP: Feeling Lucky</string>
+    <string name="title_activity_opap_rest">OpapREST</string>
+</resources>
